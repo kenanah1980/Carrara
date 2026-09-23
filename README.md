@@ -213,4 +213,4 @@ Carrara is offered as a full free version, providing users access to all feature
 Unlock your creative potential with Carrara! Download now and experience the complete package for 3D modeling and animation.
 
 ---
-**Last updated:** 2026-09-23 09:02:48 UTC
+**Last updated:** 2026-09-23 14:39:05 UTC
